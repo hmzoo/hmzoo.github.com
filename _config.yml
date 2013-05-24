@@ -10,12 +10,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : HM notes
-tagline: 
-author :HMJ
-  name : 
-  email : hmj@goatpage.com
-  github : hmzoo
-  twitter : hmzoo
+tagline : no
+author : HMJ
+name : HMJ
+email : hmj@goatpage.com
+github : hmzoo
+twitter : hmzoo
   
 
 # The production_url is only used when full-domain names are needed
