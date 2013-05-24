@@ -1,0 +1,1 @@
+{"ts":1369401137996,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"---\nlayout: page\ntitle: Pages \nheader: Pages\ngroup: navigation\n---\n{% include JB/setup %}\n\n<h2>All Pages</h2>\n<ul>\n{% assign pages_list = site.pages %}\n{% include JB/pages_list %}\n</ul>\n"]],"start1":0,"start2":0,"length1":0,"length2":186}]],"length":186}
